@@ -11,7 +11,7 @@ will work but is inefficient in terms of time complexity and we don't want our u
 So Trie will provide functionalities of searching, inserting, building words efficiently in this project .
 
 We basically have a grid so i first build a trie using all the words provided to us to match them in the grid. And then
-i run my solve function to generate those matching pattern ):
+i ran my solve function to generate those matching pattern ):
 
 ## Commands to run this project
 
